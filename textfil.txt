@@ -1,1 +1,19 @@
-Textfil
+nikaarya@Nikas-MacBook-Air-2020 GIT % git log
+commit e6ca8292c1a167686e9f788ca6bb14c6fe1da8fc (HEAD -> master, origin/master, origin/feature2, feature2)
+Author: nikaarya <nik.ary94@gmail.com>
+Date:   Fri Nov 13 17:08:11 2020 +0100
+
+    Lägger till en textfil
+
+commit 11398fc326edfd4625ce8503afff8bdab341b1db
+Author: nikaarya <nik.ary94@gmail.com>
+Date:   Fri Nov 13 16:54:37 2020 +0100
+
+    Skapat en README fil
+
+commit 1c2f41155c857cd7d09ef49c6ba0af328ff3ee99
+Author: nikaarya <nik.ary94@gmail.com>
+Date:   Fri Nov 13 16:46:17 2020 +0100
+
+    Skapat gitignore fil
+nikaarya@Nikas-MacBook-Air-2020 GIT % 
